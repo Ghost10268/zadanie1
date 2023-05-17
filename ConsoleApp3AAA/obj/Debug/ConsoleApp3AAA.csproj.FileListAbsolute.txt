@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\ConsoleApp3AAA\ConsoleApp3AAA\bin\Debug\ConsoleApp3AAA.exe.config
+C:\Users\admin\source\repos\ConsoleApp3AAA\ConsoleApp3AAA\bin\Debug\ConsoleApp3AAA.exe
+C:\Users\admin\source\repos\ConsoleApp3AAA\ConsoleApp3AAA\bin\Debug\ConsoleApp3AAA.pdb
+C:\Users\admin\source\repos\ConsoleApp3AAA\ConsoleApp3AAA\obj\Debug\ConsoleApp3AAA.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ConsoleApp3AAA\ConsoleApp3AAA\obj\Debug\ConsoleApp3AAA.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ConsoleApp3AAA\ConsoleApp3AAA\obj\Debug\ConsoleApp3AAA.exe
+C:\Users\admin\source\repos\ConsoleApp3AAA\ConsoleApp3AAA\obj\Debug\ConsoleApp3AAA.pdb
